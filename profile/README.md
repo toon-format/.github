@@ -6,6 +6,6 @@
   Compact, human-readable serialization of JSON data for LLM prompts.
 
   [Homepage](https://toonformat.dev) •
-  [What is TOON?](https://toonformat.dev/guide/getting-started) •
+  [Why tho?](https://toonformat.dev/guide/getting-started) •
   [Contribute?](https://github.com/toon-format/toon)
 </div>
