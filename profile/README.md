@@ -7,5 +7,5 @@
 
   [Homepage](https://toonformat.dev) •
   [Why tho?](https://toonformat.dev/guide/getting-started) •
-  [Contribute?](https://github.com/toon-format/toon)
+  [Contribute](https://github.com/toon-format/toon)
 </div>
