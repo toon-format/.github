@@ -3,9 +3,9 @@
 
   # TOON
 
-  Compact, human-readable serialization of JSON data for LLM prompts.
+  > Compact, human-readable serialization of JSON data for LLM prompts.
 
-  [Homepage](https://toonformat.dev) •
-  [Why tho?](https://toonformat.dev/guide/getting-started) •
-  [Contribute](https://github.com/toon-format/toon)
+  [**Homepage**](https://toonformat.dev)&nbsp; •&nbsp;
+  [**Why tho?**](https://toonformat.dev/guide/getting-started)&nbsp; •&nbsp;
+  [**Contribute**](https://github.com/toon-format/toon)
 </div>
