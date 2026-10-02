@@ -39,6 +39,13 @@ body:
     validations:
       required: true
 
+  - type: input
+    id: spec-fixture
+    attributes:
+      label: Failing Spec Fixture
+      description: File and test name from toon-format/spec, if any
+      placeholder: decode/primitives.json – "parses quoted string with tab escape"
+
   - type: textarea
     id: environment
     attributes:
