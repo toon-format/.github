@@ -2,11 +2,6 @@ name: Feature Request
 description: Suggest a new feature or enhancement
 labels: ["enhancement"]
 body:
-  - type: markdown
-    attributes:
-      value: |
-        Thanks for suggesting a feature!
-
   - type: textarea
     id: problem
     attributes:
