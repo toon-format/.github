@@ -2,11 +2,6 @@ name: Bug Report
 description: Report a bug or unexpected behavior
 labels: ["bug"]
 body:
-  - type: markdown
-    attributes:
-      value: |
-        Thanks for taking the time to report a bug!
-
   - type: textarea
     id: description
     attributes:
@@ -43,6 +38,13 @@ body:
       description: What actually happened (including error messages)
     validations:
       required: true
+
+  - type: input
+    id: spec-fixture
+    attributes:
+      label: Failing Spec Fixture
+      description: File and test name from toon-format/spec, if any
+      placeholder: decode/primitives.json – "parses quoted string with tab escape"
 
   - type: textarea
     id: environment
