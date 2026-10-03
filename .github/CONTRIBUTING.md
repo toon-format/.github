@@ -2,7 +2,7 @@
 
 Open an issue before a pull request that changes encoding or decoding behavior.
 
-Spec behavior is tested through the spec fixtures – a missing case goes to [toon-format/spec](https://github.com/toon-format/spec) as a fixture.
+Spec behavior is tested through the spec fixtures – a missing case goes to [toon-format/spec](https://github.com/toon-format/spec) as a fixture. Behavior the spec doesn't define, such as API options and streaming, gets a test in the package.
 
 Pull request titles follow [Conventional Commits](https://www.conventionalcommits.org/).
 
